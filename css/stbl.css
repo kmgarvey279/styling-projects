@@ -1,0 +1,21 @@
+.intro {
+  color: blue;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.sab-text {
+  color: pink;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.blog-post {
+  color: darkgreen;
+  font-family: fantasy;
+}
+
+body {
+  background-color: yellow;
+
+}
