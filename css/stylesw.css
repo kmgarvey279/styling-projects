@@ -1,0 +1,13 @@
+img {
+  float: middle;
+}
+
+.column {
+  width: 300px;
+  float:left;
+  background-color: lightblue;
+}
+
+body {
+  background-color: black;
+}
