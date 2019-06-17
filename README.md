@@ -7,7 +7,7 @@ _A number of different HTML pages utilizing in-line styling and CSS stylesheets 
 
 ### Setup/Installation
 - _Clone ``https://github.com/kmgarvey279/styling-projects``_
-- _Open the file various files in your web browser of choice._
+- _Open the file various HTML files in your web browser of choice._
 
 
 
