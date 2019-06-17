@@ -21,7 +21,7 @@ _Please contact me at kmgarvey279@gmail.com if you have any questions or comment
 ### Technologies Used
 
 _- HTML_
-_-CSS_
+_- CSS_
 
 ### License
 
